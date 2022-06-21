@@ -126,6 +126,12 @@ class UserController extends Controller {
 
     接口具体描述
 
+@OperationId
+---
+格式：@OperationId {OperationId}
+
+    接口操作ID
+
 @Summary
 ---
 格式：@Summary {Summary}
